@@ -12,7 +12,7 @@
 
 </div>
 
-> The heroes that inspire us are the ones in which we see a glimpse of our own potential.
+> The heroes that inspire us are the ones in which we see a glimpse of our own potential.<br>
 >  --  Alexander Den Heijer
 
 Curated list of blogs and newsletters by frontend coders.
