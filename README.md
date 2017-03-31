@@ -27,8 +27,11 @@ Curated list of awesome resources by frontend heroes.
 
 ## Blogs
 - [2ality](http://2ality.com) - [Dr. Axel Rauchsmer](https://twitter.com/rauschma)
+- [Ben Frain](https://benfrain.com/blog/) - [Ben](http://twitter.com/benfrain)
 - [BitsOfCode](https://bitsofco.de) - [Ire Aderinokun](https://ireaderinokun.com)
 - [CSS Wizardry](https://csswizardry.com) - [Harry Roberts](https://twitter.com/csswizardry)
 - [CSS Tricks](https://css-tricks.com) - [Chris Coyier et al](https://twitter.com/chriscoyier)
+- [MeyerWeb](http://meyerweb.com) - [Eric Meyer](https://twitter.com/meyerweb)
+- [Sara Soueidan](https://sarasoueidan.com) - [Sara](https://twitter.com/sarasoueidan)
 - [Umaar dev tips](https://umaar.com/dev-tips/) - [Umar Hansa](https://twitter.com/umaar/)
 - [Una Kravets](https://una.im/#💁) - [Una](https://twitter.com/Una)
