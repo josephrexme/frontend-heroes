@@ -31,7 +31,13 @@ Curated list of awesome resources by frontend heroes.
 - [BitsOfCode](https://bitsofco.de) - [Ire Aderinokun](https://ireaderinokun.com)
 - [CSS Tricks](https://css-tricks.com) - [Chris Coyier et al](https://twitter.com/chriscoyier)
 - [CSS Wizardry](https://csswizardry.com) - [Harry Roberts](https://twitter.com/csswizardry)
+- [Lea Verou](http://lea.verou.me) - [Lea](http://twitter.com/leaverou)
 - [MeyerWeb](http://meyerweb.com) - [Eric Meyer](https://twitter.com/meyerweb)
 - [Sara Soueidan](https://sarasoueidan.com) - [Sara](https://twitter.com/sarasoueidan)
 - [Umaar dev tips](https://umaar.com/dev-tips/) - [Umar Hansa](https://twitter.com/umaar/)
 - [Una Kravets](https://una.im/#💁) - [Una](https://twitter.com/Una)
+
+# Books
+- [CSS Secrets](http://www.amazon.com/CSS-Secrets-Lea-Verou/dp/1449372635) - [Lea Verou](http://lea.verou.me)
+- [Practical SVG](https://abookapart.com/products/practical-svg) - [Chris Coyier](https://twitter.com/chriscoyier)
+- [SVG Animations](http://shop.oreilly.com/product/mobile/0636920045335.do) - [Sarah Drasner](https://twitter.com/sarah_edo)
